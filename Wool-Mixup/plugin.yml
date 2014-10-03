@@ -1,0 +1,8 @@
+name: Wool Rush
+main: hyg.hydrosis.WoolMix.WoolMix
+version: 1.0
+description: A minigame where the goal is to get to the specified wool color!
+author: Hydrosis
+commands:
+   woolrush:
+      description: Main Wool Mixup command

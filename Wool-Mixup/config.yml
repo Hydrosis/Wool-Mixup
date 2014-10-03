@@ -1,0 +1,17 @@
+# Wool Rush
+# Created by Hydrosis
+
+#Time Limit (in seconds) per game
+Time Limit: 120
+
+#Initial time (in seconds) between blocks disappearing
+Timer: 5
+
+#How quickly the timer should speed up from the previous time.
+#This number should be less than 1.
+Speedup: .9
+
+#Time between games
+Countdown: 15
+
+Arenas:
